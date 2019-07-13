@@ -1,0 +1,1 @@
+this is a command first to appear when opening a file
